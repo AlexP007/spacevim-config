@@ -23,7 +23,10 @@
     buffer_index_type = 4
     enable_tabline_filetype_icon = true
     enable_statusline_mode = false
-    
+   
+    # Tabs
+    default_indent = 4
+
     # Enable coc.nvim 
     autocomplete_method = "coc"
 
